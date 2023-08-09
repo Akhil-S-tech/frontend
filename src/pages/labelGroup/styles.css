@@ -1,0 +1,34 @@
+/* .z-index{
+  z-index: 9999999999;
+  background: white;
+  padding: 4rem;
+  border-radius: 20px;
+}
+.bb{
+  z-index: 999999999999999999999;
+  background: white;
+}
+.group{
+  width: 30rem;
+}
+.table-right{
+  right: 1rem;
+}
+html{
+	background:#eee;
+}
+.container{
+  flex-grow: unset;
+	width:50%;
+	max-width:40em;
+	margin:10vh auto;
+} */
+
+html{
+	background:#eee;
+}
+.container{
+	min-width:320px;
+	width:64%;
+	margin:10vh auto;
+}
